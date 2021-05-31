@@ -45,10 +45,10 @@ INSERT INTO `user` (`userid`, `firstname`, `lastname`, `email`, `password`) VALU
 (3, 'asdfasd', 'fasdfasdf', 'asdfasdfasdsadf', '6a204bd89f3c8348afd5c77c717a097a'),
 (4, 'asdfasd', 'fasdfasdf', 'asdfasdfasdsadf@gmail.com', '6a204bd89f3c8348afd5c77c717a097a'),
 (5, 'dasdfasdfasdf', 'asdfaasdfsdf', 'asdf@asdf.com', '6a204bd89f3c8348afd5c77c717a097a'),
-(6, 'wa', 'Schneider', 'walter.schneider@gmail.com', '25d55ad283aa400af464c76d713c07ad'),
+(6, 'wa', 'lmao', 'wert@fsdg.com', '25d55ad283aa400af464c76d713c07ad'),
 (8, 'wa', 'asd', 'asdf@gmail.com', '6a204bd89f3c8348afd5c77c717a097a'),
-(9, 'ewrtwert', 'wedrtwert', 'weschneider02@gmail.com', '6a204bd89f3c8348afd5c77c717a097a'),
-(10, 'Walter', 'Schneider', 'asdgasjajkdfasd@gmail.com', '6a204bd89f3c8348afd5c77c717a097a');
+(9, 'ewrtwert', 'wedrtwert', 'lmao@gmail.com', '6a204bd89f3c8348afd5c77c717a097a'),
+(10, 'Schwert', 'Schneider', 'asdgasjajkdfasd@gmail.com', '6a204bd89f3c8348afd5c77c717a097a');
 
 --
 -- Indexes for dumped tables
