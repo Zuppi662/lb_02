@@ -38,31 +38,8 @@ CREATE TABLE `names` (
 --
 
 INSERT INTO `names` (`nameid`, `name`) VALUES
-(1, 'xgfhsfdgh'),
-(2, 'xgfhsfdgh'),
-(3, 'xgfhsfdgh'),
-(4, 'as'),
-(5, 'as'),
-(6, 'as'),
-(7, 'as'),
-(8, 'e'),
-(9, 'e'),
-(10, 'e'),
-(11, 'e'),
-(12, 'e'),
-(13, 'e'),
-(14, 'asdf'),
-(15, 'asd'),
-(16, 'asdfasdf'),
-(17, 'asdfasdfasdfasdfasdf'),
-(18, 'asdfasdf'),
-(19, 'asdfasdf'),
-(20, 'asdfasdfasdfa'),
-(21, 'asdfasdf'),
-(22, 'sdf'),
-(23, 'asdf'),
-(24, 'asdfasdfa'),
-(25, 'Walter Schneider');
+(1, 'Noah Zuppiger'),
+(2, 'Hannes Bickel');
 
 --
 -- Indexes for dumped tables
